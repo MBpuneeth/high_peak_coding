@@ -1,0 +1,26 @@
+//for input = 6 employees
+
+Here the goodies that are selected for distirbution are :
+Sandwich Toaster:2195
+Cult Pass:2799
+Scale:4999
+Fitbit Plus:7980
+Microwave Oven:9800
+Alexa:9999
+And the difference between the chosen goodies with highest price and the lowest price is : 7804
+
+//for input = 4 employees
+
+Here the goodies that are selected for distirbution are :
+Fitbit Plus:7980
+Microwave Oven:9800
+Alexa:9999
+Digital Camera:11101
+And the difference between the chosen goodies with highest price and the lowest price is : 3121
+
+//for input = 2 employees
+
+Here the goodies that are selected for distirbution are :
+Microwave Oven:9800
+Alexa:9999
+And the difference between the chosen goodies with highest price and the lowest price is : 199
